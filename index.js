@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 // Recommend using node-fetch for those familiar with JS fetch
 /**
-  * Author: Robbins J. Kariseb, ALB Harvard.
+  * Author: Raoul A. Bock.
   * Senior Software Engineer
   * Deepcatch Namibia Holdings
   * Assessment Due Date: 2021-09-16
